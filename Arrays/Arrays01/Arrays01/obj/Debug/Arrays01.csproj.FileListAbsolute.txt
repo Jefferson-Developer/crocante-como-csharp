@@ -1,0 +1,7 @@
+C:\Users\aluno1\Desktop\Arrays\Arrays01\Arrays01\bin\Debug\Arrays01.exe.config
+C:\Users\aluno1\Desktop\Arrays\Arrays01\Arrays01\bin\Debug\Arrays01.exe
+C:\Users\aluno1\Desktop\Arrays\Arrays01\Arrays01\bin\Debug\Arrays01.pdb
+C:\Users\aluno1\Desktop\Arrays\Arrays01\Arrays01\obj\Debug\Arrays01.csprojAssemblyReference.cache
+C:\Users\aluno1\Desktop\Arrays\Arrays01\Arrays01\obj\Debug\Arrays01.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Desktop\Arrays\Arrays01\Arrays01\obj\Debug\Arrays01.exe
+C:\Users\aluno1\Desktop\Arrays\Arrays01\Arrays01\obj\Debug\Arrays01.pdb
