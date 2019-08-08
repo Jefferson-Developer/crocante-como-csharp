@@ -1,0 +1,14 @@
+C:\Users\aluno1\Source\Repos\Exercicio11_Lanchonete\Exercicio11_Lanchonete\bin\Debug\Exercicio11_Lanchonete.exe.config
+C:\Users\aluno1\Source\Repos\Exercicio11_Lanchonete\Exercicio11_Lanchonete\bin\Debug\Exercicio11_Lanchonete.exe
+C:\Users\aluno1\Source\Repos\Exercicio11_Lanchonete\Exercicio11_Lanchonete\bin\Debug\Exercicio11_Lanchonete.pdb
+C:\Users\aluno1\Source\Repos\Exercicio11_Lanchonete\Exercicio11_Lanchonete\obj\Debug\Exercicio11_Lanchonete.csprojAssemblyReference.cache
+C:\Users\aluno1\Source\Repos\Exercicio11_Lanchonete\Exercicio11_Lanchonete\obj\Debug\Exercicio11_Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Source\Repos\Exercicio11_Lanchonete\Exercicio11_Lanchonete\obj\Debug\Exercicio11_Lanchonete.exe
+C:\Users\aluno1\Source\Repos\Exercicio11_Lanchonete\Exercicio11_Lanchonete\obj\Debug\Exercicio11_Lanchonete.pdb
+C:\Users\aluno1\Desktop\Exercicio11_Lanchonete\Exercicio11_Lanchonete\bin\Debug\Exercicio11_Lanchonete.exe.config
+C:\Users\aluno1\Desktop\Exercicio11_Lanchonete\Exercicio11_Lanchonete\bin\Debug\Exercicio11_Lanchonete.exe
+C:\Users\aluno1\Desktop\Exercicio11_Lanchonete\Exercicio11_Lanchonete\bin\Debug\Exercicio11_Lanchonete.pdb
+C:\Users\aluno1\Desktop\Exercicio11_Lanchonete\Exercicio11_Lanchonete\obj\Debug\Exercicio11_Lanchonete.csprojAssemblyReference.cache
+C:\Users\aluno1\Desktop\Exercicio11_Lanchonete\Exercicio11_Lanchonete\obj\Debug\Exercicio11_Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Desktop\Exercicio11_Lanchonete\Exercicio11_Lanchonete\obj\Debug\Exercicio11_Lanchonete.exe
+C:\Users\aluno1\Desktop\Exercicio11_Lanchonete\Exercicio11_Lanchonete\obj\Debug\Exercicio11_Lanchonete.pdb

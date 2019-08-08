@@ -1,0 +1,7 @@
+C:\Users\aluno1\Source\Repos\Funções\Funções\bin\Debug\Funções.exe.config
+C:\Users\aluno1\Source\Repos\Funções\Funções\bin\Debug\Funções.exe
+C:\Users\aluno1\Source\Repos\Funções\Funções\bin\Debug\Funções.pdb
+C:\Users\aluno1\Source\Repos\Funções\Funções\obj\Debug\Funções.csprojAssemblyReference.cache
+C:\Users\aluno1\Source\Repos\Funções\Funções\obj\Debug\Funções.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Source\Repos\Funções\Funções\obj\Debug\Funções.exe
+C:\Users\aluno1\Source\Repos\Funções\Funções\obj\Debug\Funções.pdb

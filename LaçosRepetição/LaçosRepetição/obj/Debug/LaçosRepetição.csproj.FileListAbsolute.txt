@@ -1,0 +1,7 @@
+C:\Users\aluno1\Source\Repos\LaçosRepetição\LaçosRepetição\bin\Debug\LaçosRepetição.exe.config
+C:\Users\aluno1\Source\Repos\LaçosRepetição\LaçosRepetição\bin\Debug\LaçosRepetição.exe
+C:\Users\aluno1\Source\Repos\LaçosRepetição\LaçosRepetição\bin\Debug\LaçosRepetição.pdb
+C:\Users\aluno1\Source\Repos\LaçosRepetição\LaçosRepetição\obj\Debug\LaçosRepetição.csprojAssemblyReference.cache
+C:\Users\aluno1\Source\Repos\LaçosRepetição\LaçosRepetição\obj\Debug\LaçosRepetição.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Source\Repos\LaçosRepetição\LaçosRepetição\obj\Debug\LaçosRepetição.exe
+C:\Users\aluno1\Source\Repos\LaçosRepetição\LaçosRepetição\obj\Debug\LaçosRepetição.pdb

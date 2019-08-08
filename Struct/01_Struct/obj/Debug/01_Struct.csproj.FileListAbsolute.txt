@@ -1,0 +1,7 @@
+C:\Users\aluno1\Desktop\Struct\01_Struct\01_Struct\bin\Debug\01_Struct.exe.config
+C:\Users\aluno1\Desktop\Struct\01_Struct\01_Struct\bin\Debug\01_Struct.exe
+C:\Users\aluno1\Desktop\Struct\01_Struct\01_Struct\bin\Debug\01_Struct.pdb
+C:\Users\aluno1\Desktop\Struct\01_Struct\01_Struct\obj\Debug\01_Struct.csprojAssemblyReference.cache
+C:\Users\aluno1\Desktop\Struct\01_Struct\01_Struct\obj\Debug\01_Struct.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Desktop\Struct\01_Struct\01_Struct\obj\Debug\01_Struct.exe
+C:\Users\aluno1\Desktop\Struct\01_Struct\01_Struct\obj\Debug\01_Struct.pdb
