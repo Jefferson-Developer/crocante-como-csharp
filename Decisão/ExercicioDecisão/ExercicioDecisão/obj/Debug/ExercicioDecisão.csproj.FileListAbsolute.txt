@@ -1,0 +1,7 @@
+C:\Users\aluno2\Desktop\Nova pasta (2)\Decisão\ExercicioDecisão\ExercicioDecisão\bin\Debug\ExercicioDecisão.exe.config
+C:\Users\aluno2\Desktop\Nova pasta (2)\Decisão\ExercicioDecisão\ExercicioDecisão\bin\Debug\ExercicioDecisão.exe
+C:\Users\aluno2\Desktop\Nova pasta (2)\Decisão\ExercicioDecisão\ExercicioDecisão\bin\Debug\ExercicioDecisão.pdb
+C:\Users\aluno2\Desktop\Nova pasta (2)\Decisão\ExercicioDecisão\ExercicioDecisão\obj\Debug\ExercicioDecisão.csprojAssemblyReference.cache
+C:\Users\aluno2\Desktop\Nova pasta (2)\Decisão\ExercicioDecisão\ExercicioDecisão\obj\Debug\ExercicioDecisão.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Desktop\Nova pasta (2)\Decisão\ExercicioDecisão\ExercicioDecisão\obj\Debug\ExercicioDecisão.exe
+C:\Users\aluno2\Desktop\Nova pasta (2)\Decisão\ExercicioDecisão\ExercicioDecisão\obj\Debug\ExercicioDecisão.pdb

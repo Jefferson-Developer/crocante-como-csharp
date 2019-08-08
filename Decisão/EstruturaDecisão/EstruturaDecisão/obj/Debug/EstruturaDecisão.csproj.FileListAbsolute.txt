@@ -1,0 +1,14 @@
+C:\Users\aluno2\Source\Repos\EstruturaDecisão\EstruturaDecisão\bin\Debug\EstruturaDecisão.exe.config
+C:\Users\aluno2\Source\Repos\EstruturaDecisão\EstruturaDecisão\bin\Debug\EstruturaDecisão.exe
+C:\Users\aluno2\Source\Repos\EstruturaDecisão\EstruturaDecisão\bin\Debug\EstruturaDecisão.pdb
+C:\Users\aluno2\Source\Repos\EstruturaDecisão\EstruturaDecisão\obj\Debug\EstruturaDecisão.csprojAssemblyReference.cache
+C:\Users\aluno2\Source\Repos\EstruturaDecisão\EstruturaDecisão\obj\Debug\EstruturaDecisão.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Source\Repos\EstruturaDecisão\EstruturaDecisão\obj\Debug\EstruturaDecisão.exe
+C:\Users\aluno2\Source\Repos\EstruturaDecisão\EstruturaDecisão\obj\Debug\EstruturaDecisão.pdb
+C:\Users\aluno2\Desktop\Nova pasta (2)\Decisão\EstruturaDecisão\EstruturaDecisão\bin\Debug\EstruturaDecisão.exe.config
+C:\Users\aluno2\Desktop\Nova pasta (2)\Decisão\EstruturaDecisão\EstruturaDecisão\bin\Debug\EstruturaDecisão.exe
+C:\Users\aluno2\Desktop\Nova pasta (2)\Decisão\EstruturaDecisão\EstruturaDecisão\bin\Debug\EstruturaDecisão.pdb
+C:\Users\aluno2\Desktop\Nova pasta (2)\Decisão\EstruturaDecisão\EstruturaDecisão\obj\Debug\EstruturaDecisão.csprojAssemblyReference.cache
+C:\Users\aluno2\Desktop\Nova pasta (2)\Decisão\EstruturaDecisão\EstruturaDecisão\obj\Debug\EstruturaDecisão.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Desktop\Nova pasta (2)\Decisão\EstruturaDecisão\EstruturaDecisão\obj\Debug\EstruturaDecisão.exe
+C:\Users\aluno2\Desktop\Nova pasta (2)\Decisão\EstruturaDecisão\EstruturaDecisão\obj\Debug\EstruturaDecisão.pdb
