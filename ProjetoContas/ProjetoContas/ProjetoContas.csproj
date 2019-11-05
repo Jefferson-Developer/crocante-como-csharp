@@ -61,6 +61,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="contasDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>contasDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="ContasPagar.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -140,6 +145,17 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="contasDataSet.xsc">
+      <DependentUpon>contasDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="contasDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>contasDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="contasDataSet.xss">
+      <DependentUpon>contasDataSet.xsd</DependentUpon>
+    </None>
     <None Include="ProjetoContasDataSet.xsc">
       <DependentUpon>ProjetoContasDataSet.xsd</DependentUpon>
     </None>

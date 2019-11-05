@@ -337,6 +337,7 @@
             this.Controls.Add(this.ds_emailTextBox);
             this.Name = "frmFornecedor";
             this.Text = "frmFornecedor";
+            this.Load += new System.EventHandler(this.frmFornecedor_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

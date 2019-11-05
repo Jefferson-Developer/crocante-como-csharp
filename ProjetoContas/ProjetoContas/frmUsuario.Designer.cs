@@ -254,6 +254,7 @@
             this.Controls.Add(this.btnAnterior);
             this.Name = "frmUsuario";
             this.Text = "frmUsuario";
+            this.Load += new System.EventHandler(this.frmUsuario_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
