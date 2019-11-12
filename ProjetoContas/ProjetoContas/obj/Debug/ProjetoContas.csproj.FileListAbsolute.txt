@@ -1,0 +1,11 @@
+C:\Users\aluno1\Desktop\crocante-como-csharp\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.csprojAssemblyReference.cache
+C:\Users\aluno1\Desktop\crocante-como-csharp\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.ContasPagar.resources
+C:\Users\aluno1\Desktop\crocante-como-csharp\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.Form1.resources
+C:\Users\aluno1\Desktop\crocante-como-csharp\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.frmCliente.resources
+C:\Users\aluno1\Desktop\crocante-como-csharp\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.frmContasReceber.resources
+C:\Users\aluno1\Desktop\crocante-como-csharp\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.frmFornecedor.resources
+C:\Users\aluno1\Desktop\crocante-como-csharp\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.frmPrincipal.resources
+C:\Users\aluno1\Desktop\crocante-como-csharp\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.frmUsuario.resources
+C:\Users\aluno1\Desktop\crocante-como-csharp\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.Properties.Resources.resources
+C:\Users\aluno1\Desktop\crocante-como-csharp\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.csproj.GenerateResource.cache
+C:\Users\aluno1\Desktop\crocante-como-csharp\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.csproj.CoreCompileInputs.cache
